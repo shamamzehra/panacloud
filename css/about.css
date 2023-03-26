@@ -23,7 +23,7 @@
     color: #678E19 !important;
     font-style: italic;
 }
-/* .dvReadMoreButton button{
+.dvReadMoreButton button{
     padding: 10px 15px;
     background-color: #29af71;
     border: none;
@@ -34,7 +34,7 @@
     display: flex;
     justify-content: center;
 }
-
+/* 
 
 .about-1 h2 span {
     color: black;
