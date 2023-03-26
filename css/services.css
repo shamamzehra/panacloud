@@ -1,0 +1,48 @@
+#services{
+    height: 420px;
+    padding: 20px;
+    background-color: ghostwhite; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.services-1{
+}
+.services-1>p{
+    color: slategrey;
+     text-align: center;
+}
+.services-1>h1{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    margin: 0px;
+}
+.services-1>h1>span{
+    color:#678E19 !important;
+}
+.services-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.services-2-a{
+    width: 200px;
+    height: 100px;
+    padding: 50px 10px;
+    background-size: 230px 200px;
+    background-image: url(../images-1/services/card_1.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 0px 40px;
+    
+}
+
+.services-2-a >h3{
+    text-align: center;
+    
+}
+.services-2-a >p{
+    text-align: center;
+    
+}
